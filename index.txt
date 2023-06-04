@@ -1,0 +1,13 @@
+ESTRUCTURA DE DIRECTORIS (sense accents per evitar problemes)
+Estructura feta d'acord amb el demanat a l'ultima classe de laboratori.
+	-> /FONTS
+		-> carpetes amb tots els packages del nostre projecte
+		-> Arxiu Compilador&Executable el qual recompila i executa el codi
+	-> /EXE
+		-> Arxiu project.jar executable del projecte
+		-> /jocs de prova
+	-> /DOCS: 
+		-> Manual d'usuari
+		-> /JavaDoc
+		-> Llista de llibreries
+		-> Relacio de treball

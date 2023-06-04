@@ -1,0 +1,3 @@
+ignasi
+text1
+hola aquest es un text d'una linea

@@ -1,0 +1,5 @@
+ignasi
+text4
+hola aquetst es el tercer text curt, molt curt
+salt de linea
+un altre salt de linea
