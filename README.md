@@ -1,6 +1,6 @@
 # Projecte de Prop Q1 2022/23
 
-Projecte de l'assignatura de PROP de la Facultat d'Informàtica de Barcelona
+Projecte de l'assignatura de PROP de la Facultat d'Informàtica de Barcelona (ULTIMA ENTREGA)
 
 ----
 
